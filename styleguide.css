@@ -1,0 +1,130 @@
+:root { 
+    --amaranth: #e42256;
+    --bondi-blue: #01b1af;
+    --dove-gray: #707070;
+    --gun-powder: #43425d;
+    --stack: #8f8f8f;
+    --sunglow: #fec84c;
+    --sunglow-2: #fdcb2e;
+    --sunset-orange: #ff6057;
+    --trout: #4d4f5c;
+    --white: #ffffff;
+   
+    --font-size-l: 15px;
+    --font-size-m: 14px;
+    --font-size-xl: 18px;
+    --font-size-xxl: 20px;
+    --font-size-xxxl: 35px;
+    --font-size-xxxxl: 38px;
+    --font-size-xxxxxl: 53px;
+   
+    --font-family-adapterarabic_text-bold: "AdapterArabic Text-Bold", Helvetica;
+    --font-family-avenir-book: "Avenir-Book", Helvetica;
+    --font-family-poppins: "Poppins", Helvetica;
+    --font-family-rb-bold: "RB-Bold", Helvetica;
+    --font-family-rb-regular: "RB-Regular", Helvetica;
+  }
+  .poppins-normal-stack-14px {
+    color: var(--stack);
+    font-family: var(--font-family-poppins);
+    font-size: var(--font-size-m);
+    font-style: normal;
+    font-weight: 400;
+  }
+  
+  .poppins-bold-stack-14px {
+    color: var(--stack);
+    font-family: var(--font-family-poppins);
+    font-size: var(--font-size-m);
+    font-style: normal;
+    font-weight: 700;
+  }
+  
+  .rb-bold-amaranth-38px {
+    color: var(--amaranth);
+    font-family: var(--font-family-rb-bold);
+    font-size: var(--font-size-xxxxl);
+    font-style: normal;
+    font-weight: 700;
+  }
+  
+  .rb-bold-amaranth-14px {
+    color: var(--amaranth);
+    font-family: var(--font-family-rb-bold);
+    font-size: var(--font-size-m);
+    font-style: normal;
+    font-weight: 700;
+  }
+  
+  .rb-bold-amaranth-53px {
+    color: var(--amaranth);
+    font-family: var(--font-family-rb-bold);
+    font-size: var(--font-size-xxxxxl);
+    font-style: normal;
+    font-weight: 700;
+  }
+  
+  .rb-regular-normal-bondi-blue-14px {
+    color: var(--bondi-blue);
+    font-family: var(--font-family-rb-regular);
+    font-size: var(--font-size-m);
+    font-style: normal;
+    font-weight: 400;
+  }
+  
+  .rb-regular-normal-gun-powder-15px {
+    color: var(--gun-powder);
+    font-family: var(--font-family-rb-regular);
+    font-size: var(--font-size-l);
+    font-style: normal;
+    font-weight: 400;
+  }
+  
+  .rb-bold-white-40px {
+    color: var(--white);
+    font-family: var(--font-family-rb-bold);
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 700;
+  }
+  
+  .avenir-book-normal-white-100px {
+    color: var(--white);
+    font-family: var(--font-family-avenir-book);
+    font-size: 100px;
+    font-style: normal;
+    font-weight: 400;
+  }
+  
+  .rb-regular-normal-white-18px {
+    color: var(--white);
+    font-family: var(--font-family-rb-regular);
+    font-size: var(--font-size-xl);
+    font-style: normal;
+    font-weight: 400;
+  }
+  
+  .rb-regular-normal-white-15px {
+    color: var(--white);
+    font-family: var(--font-family-rb-regular);
+    font-size: var(--font-size-l);
+    font-style: normal;
+    font-weight: 400;
+  }
+  
+  .rb-regular-normal-bondi-blue-24px {
+    color: var(--bondi-blue);
+    font-family: var(--font-family-rb-regular);
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+  }
+  
+  .poppins-bold-white-24px {
+    color: var(--white);
+    font-family: var(--font-family-poppins);
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+  }
+  
